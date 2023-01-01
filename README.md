@@ -44,3 +44,4 @@ I learnt many different things along the journey of developing the fabulous webs
 ### Credits
 All the pictures in said website are obtained from the [unsplash.com](https://unsplash.com/). And also said website was based on the the structure of [Project: Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page)of the [Foundatins Course](https://www.theodinproject.com/paths/foundations/courses/foundations) from the [Odin Project](https://www.theodinproject.com/dashboard)
 
+# dashboard-project
